@@ -1,0 +1,33 @@
+/******************Tag Selector*********************/
+
+
+
+h1{
+    
+    font-size: 100px;
+}
+img{
+    background-color: blue;
+}
+
+
+
+/***************Class Selector********************/
+    .bacon{
+        background-color: rgb(195, 255, 0);
+    }
+
+    .brocoli{
+        background-color: rgb(19, 237, 56);
+    }
+    .image{
+        background-color: black;
+    }
+
+
+
+    /***************ID Selector*******************/  
+
+     #heading{
+        color: blueviolet;
+     }
